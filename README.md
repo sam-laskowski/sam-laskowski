@@ -7,7 +7,7 @@ I am a graduate computer science student from the University of York, interested
 
 - 💻 Learning and Building Spring Boot applications with PostgreSQL
 
-Check out my [website](https://sam-laskowski-website.vercel.app/)
+Check out my <a href="https://sam-laskowski-website.vercel.app/" target="_blank">website</a>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-laskowski/)
