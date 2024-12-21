@@ -5,10 +5,9 @@ I am a graduate computer science student from the University of York, interested
 
 ## 🚀 What I'm Up To
 
-- 💻 Learning and Building Spring Boot applications with PostgreSQL
+- 💻 Learning and Building Spring Boot applications with Java
 - 📜 Learning Typescript and Next.js by building applications
-- 💨 Finding out more about TailwindCSS and using shadcn/ui
-
+  
 Check out my <a href="https://sam-laskowski-website.vercel.app/" target="_blank">website</a>
 
 ## 🌐 Connect with me:
