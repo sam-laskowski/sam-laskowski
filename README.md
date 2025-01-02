@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm Sam Laskowski <h1>
 
 # 💫 Brief About Me:
-I am a graduate computer science student from the University of York, interested in exploring technology and coding, building robust applications that are helpful in people's lives.
+I am a graduate computer science student from the University of York, interested in exploring technology and coding, building robust applications.
 
 ## 🚀 What I'm Up To
 
