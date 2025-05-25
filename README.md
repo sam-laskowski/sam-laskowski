@@ -5,6 +5,7 @@ I am a graduate computer science student from the University of York, interested
 
 ## 🚀 What I'm Up To
 
+- 📱 Creating apps with React Native
 - 💻 Learning and Building Spring Boot applications with Java
 - 📜 Learning Typescript and Next.js by building applications
   
