@@ -1,19 +1,21 @@
-<h1 align="center"> Hi there 👋 I'm Sam Laskowski <h1>
+<h1 align="center">Sam Laskowski <h1>
 
-# 💫 Brief About Me:
+# Brief About:
 I am a graduate computer science student from the University of York, interested in exploring technology and coding, building robust applications.
 
+<a href="https://sam-laskowski-website.vercel.app/" target="_blank">Personal Website</a>
+
+<!--
 ## 🚀 What I'm Up To
 
 - 📱 Creating apps with React Native
 - 💻 Learning and Building Spring Boot applications with Java
 - 📜 Learning Typescript and Next.js by building applications
   
-Check out my <a href="https://sam-laskowski-website.vercel.app/" target="_blank">website</a>
-
+<!--
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-laskowski/)
-
+<!--
 # 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
