@@ -1,8 +1,5 @@
 <h1 align="center">Sam Laskowski <h1>
-
-# Brief About:
-I am a graduate computer science student from the University of York, interested in exploring technology and coding, building robust applications.
-
+  
 <a href="https://sam-laskowski-website.vercel.app/" target="_blank">Personal Website</a>
 
 <!--
